@@ -1,0 +1,120 @@
+
+    /* df tabキー */
+
+    .box1 {
+      display: flex;
+      justify-content: center;
+align-items: center;
+}
+      width: 100px;
+      height: 100px;
+      
+     
+
+}
+.box2 {
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+.box3{
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+.box4{
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+.box5 {
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+.box6 {
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+.box7 {
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+.box8 {
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+.box9{
+  display: flex;
+justify-content: center;
+
+}
+.box10 {
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+btn {
+  width: 300px;
+  height: 50px;
+  background: pink;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 8px;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box5{
+width: 180px;
+height: 50px;
+background-color: yellow;
+}
+
+.box6{
+    width: 180px;
+    height: 50px;
+    background-color: yellow;
+    }
+
+
+
+ 
